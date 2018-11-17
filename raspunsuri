@@ -1,0 +1,13 @@
+1. Enumerați 3 senzori pentru receptarea informației din mediul fizic al unui sistem
+mobil.
+
+Raspuns: accelerometru, giroscop, magnetometru.
+
+2. Căutați în AppStore/PlayStore 3 aplicații care folosesc senzori pentru receptarea
+informației, pe care să le instalați. Notați în dreptul fiecăruia ce senzor(sezori) se
+folosește
+
+Raspuns:
+I) SleepTime - acclerometru, gyroscop (iti urmmareste miscarile din timpul somnului pentru a analiza calitatea somnului)
+II) Waze - GPS, accelerometru (arata viteza cu care mergi)
+III) Bible - senzorul de lumina (are o functie in care isi seteaza automat modul de noapte/zi, bazat pe nivelul de lumina)
